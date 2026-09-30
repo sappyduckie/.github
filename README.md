@@ -1,0 +1,1 @@
+This repository contains global documents to apply across any of my github repositories that do not override them. You are free to copy, modify, and distribute these documents under the Apache 2.0 license. SappyCat may accompany the documentation.
