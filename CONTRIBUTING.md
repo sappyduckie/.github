@@ -83,7 +83,7 @@ If you want an issue to be prioritized, you can vote on it by adding a 👍 reac
 Finally, by submitting a contribution, you:
 1. Affirm that you own or are otherwise authorized to submit the content of your contribution, and
 2. Accept the responsibility for your contribution, and
-3. Understand that your contribution is licensed under the following [license](LICENSE).
+3. Understand that your contribution is licensed under the following [agreement](LICENSE).
 
 ***
 
