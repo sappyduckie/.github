@@ -48,8 +48,8 @@ This section extends to anything that is intended to be read by humans. Since do
 
 There are plenty of things to document, such as, but not limited to:
 - Code, documented with inline comments and commit messages to describe the code's behaviour
-- User guides, manuals, version changelogs, and other external documentation
-- Issues raised in the issue tracker
+- User guides, wikis, manuals, version changelogs, and other external documentation
+- Posts and interactions made in the issue tracker or the discussions tab
 
 > [!TIP]
 > Confused about something? Maybe you could use some *[support](SUPPORT.md)*.
@@ -76,7 +76,7 @@ Feature requests can be submitted through the issue tracker. Create a new issue 
 
 ### Priority Voting
 
-If you want an issue to be prioritized, you can vote on it by adding a 👍 reaction. Please **do not** leave comments solely to express your support (e.g., "+1" or similar). Such comments do not count towards issue priority and are considered spam.
+If you want an issue to be prioritized, you can vote on it by adding a 👍 reaction. Please **do not** leave comments solely to express your support (e.g. "+1", "👍", "This!" or similar). Such comments do not count towards issue priority and are considered spam.
 
 ## Contribution Agreement
 
