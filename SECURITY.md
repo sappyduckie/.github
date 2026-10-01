@@ -5,8 +5,6 @@
 | =Latest | :white_check_mark: |
 | <Previous | :x: |
 
-<sup>:white_check_mark:=Supported :x:=Unsupported</sup>
-
 ## Responsible Disclosure
 
 If you believe you have found a security vulnerability, please do not report it through a public channel like the issue tracker or social media. You should privately disclose your findings in an email using the following format:
