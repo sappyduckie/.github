@@ -51,9 +51,6 @@ There are plenty of things to document, such as, but not limited to:
 - User guides, wikis, manuals, version changelogs, and other external documentation
 - Posts and interactions made in the issue tracker or the discussions tab
 
-> [!TIP]
-> Confused about something? Maybe you could use some *[support](SUPPORT.md)*.
-
 ## Bug Reports, Feature Requests, & Voting
 
 The following contributions can be made through the project's issue tracker on GitHub. You can find it under the "Issues" tab. There, you can create new issues or vote on existing ones. Always check if your issue has already been opened before creating a new one.
@@ -62,7 +59,7 @@ The following contributions can be made through the project's issue tracker on G
 
 While there are no set rules on how to report bugs, following common best practices makes solving them easier:
 
-- **Use the template**: There's a template provided for you in the issue tracker for bug reports.
+- **Use the template**: There's a `Bug Report` template provided for you in the issue tracker.
 - **Be explicit**: Use as many words as you need to ensure there is no misunderstanding.
 - **Explain**: What you did, what you expected to happen when you did it, and what actually happened.
 - **Add context**: Such as your device, operating system, and the version of the software you were using.
