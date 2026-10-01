@@ -42,7 +42,7 @@ Documentation is to be exclusively written by humans. This rule serves two purpo
 
 ### Creative Assets
 
-Creative assets cannot be generated with AI. Tooling with AI functionality is permitted for use in primarily human-crafted creative assets, and must be properly disclosed.
+Creative assets may not be generated with AI. Tooling with AI functionality is permitted for use in primarily human-crafted creative assets, and must be properly disclosed.
 
 ***
 
