@@ -1,4 +1,4 @@
-The art found in this directory is owned and copyrighted by their respective artists, and is not licensed by me or the license for this repository.
+The art found in this directory is owned and copyrighted by their respective artists.
 
 ## Attributions:
 
