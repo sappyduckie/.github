@@ -83,7 +83,7 @@ If you want an issue to be prioritized, you can vote on it by adding a 👍 reac
 Finally, by submitting a contribution, you:
 1. Affirm that you own or are otherwise authorized to submit the content of your contribution, and
 2. Accept the responsibility for your contribution, and
-3. Understand that your contribution is licensed under the following [agreement](LICENSE).
+3. Understand that your contribution is licensed under the license(s) of the repository you are contributing to.
 
 ***
 
@@ -91,7 +91,7 @@ Finally, by submitting a contribution, you:
 > If you are unsure whether your contribution follows the guidelines outlined in this document or others, see [SUPPORT.md](SUPPORT.md).
 
 > [!WARNING]
-> Failure to comply with the rules outlined in this document may result in your contribution's arbitrary rejection.
+> Failure to comply with the rules outlined in this document may result in your contribution's rejection at the maintainer's discretion.
 
 ***
 

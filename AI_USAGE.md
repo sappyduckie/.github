@@ -7,7 +7,7 @@
 
 ## Definitions
 
-Wherein throughout this document the following terms are used, they are to be understood by the corresponding definitions.
+Wherein this document the following terms are used, they are to be understood by the corresponding definitions.
 
 - **AI**: Systems that can generate content based on probabilistic inference.
 - **Agent**: Autonomous systems that have the capacity to perform actions based on internal reasoning with a limited degree of human intervention.
@@ -47,7 +47,7 @@ Creative assets cannot be generated with AI. Tooling with AI functionality is pe
 ***
 
 > [!WARNING]
-> Failure to comply with the rules outlined in this document may result in your contribution's arbitrary rejection.
+> Failure to comply with the rules outlined in this document may result in your contribution's rejection at the maintainer's discretion.
 
 ***
 

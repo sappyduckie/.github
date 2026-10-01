@@ -10,7 +10,7 @@ If the guidelines or anything else confuses you, you can contact me privately th
 - **Matrix**: `@sappyduck:catgirl.cloud`
 
 > [!NOTE]
-> A rotating public GPG key can be used to encrypt messages sent to me through unencrypted channels, and can be found updated [here](https://raw.githubusercontent.com/sappyduckie/sappyduckie/refs/heads/main/pubkey.asc). This key is additionally hosted at [keys.openpgp.org](https://keys.openpgp.org) under my email.
+> A rotating public PGP key can be used to encrypt messages sent to me through unencrypted channels, and can be found updated [here](https://raw.githubusercontent.com/sappyduckie/.github/refs/heads/main/pubkey.asc). This key is additionally hosted at [keys.openpgp.org](https://keys.openpgp.org) under my email.
 
 ***
 

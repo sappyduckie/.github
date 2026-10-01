@@ -22,9 +22,9 @@ Body:
 ```
 
 > [!TIP]
-> You may want to PGP encrypt your message with my public key, which can be found at: https://raw.githubusercontent.com/sappyduckie/sappyduckie/refs/heads/main/pubkey.asc or by searching my email in https://keys.openpgp.org/
+> A rotating public PGP key can be used to encrypt messages sent to me through unencrypted channels, and can be found updated [here](https://raw.githubusercontent.com/sappyduckie/.github/refs/heads/main/pubkey.asc). This key is additionally hosted at [keys.openpgp.org](https://keys.openpgp.org) under my email.
 
-Barring extenuating circumstances, I will acknowledge your report within **[7]** days after receiving it, and will work with you to resolve the issue. The issue may be disclosed publicly **[30]** days following resolution, or **[90]** days following the initial report if there was not resolution in the **[90]** days.
+Barring extenuating circumstances, I will acknowledge your report within **7** days after receiving it, and will work with you to resolve the issue. The issue may be disclosed publicly **30** days following resolution, or **90** days following the initial report if there was not resolution in the **90** days.
 
 Unless blank or otherwise specified, the name you provided in the initial report will be credited for the discovery upon public disclosure.
 
