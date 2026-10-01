@@ -8,7 +8,7 @@
 [![Lichess](https://img.shields.io/badge/Live%20Rating-2279-000000?logo=lichess&logoColor=ffffff)](#)
 <!--Replace banner with "# Title" if lazy-->
 ![Project title banner](/profile/img/banner.jpg)
-> *Art by: [Sitora Musulmankulova](https://www.sitoraart.com)<sub>(work modified)</sub>*
+> *Art by: [Sitora Musulmankulova](https://www.sitoraart.com) <sub>(work modified)</sub>*
 
 ***
 
