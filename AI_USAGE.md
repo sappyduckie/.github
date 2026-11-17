@@ -27,7 +27,7 @@ Assisted-by: <name and version of model or tool used>
 AI-used-for: code | assets
 ```
 
-The `AI-used-for:` field only accepts `code` XOR `assets` as a value. If you are contributing both, please separate them across different commits. If you think your contribution falls outside of this scope, [ask](SUPPORT.md)!
+The `AI-used-for:` field only accepts `code` OR `assets` as a value. If you think your contribution falls outside of this scope, [ask](SUPPORT.md)!
 
 ### Code
 
