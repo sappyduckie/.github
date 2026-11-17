@@ -2,8 +2,8 @@
 
 | Version | Support |
 |---|:---:|
-| =Latest | :white_check_mark: |
-| <Previous | :x: |
+| Latest | :white_check_mark: |
+| Previous | :x: |
 
 ## Responsible Disclosure
 
